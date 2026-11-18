@@ -1,3 +1,4 @@
+
 import streamlit as st
 import pandas as pd
 import matplotlib.pyplot as plt
@@ -1679,7 +1680,7 @@ if page == "🏠 Home":
     st.markdown(" Cyber A  ")
     st.markdown("SRM Institute of Science and Technology, Tiruchirappalli")
 
-    st.info("📧 **For queries, contact:** rsmani84@gmail.com")
+    st.info("📧 **For queries, contact:**9597185406/9384521607")
 
 
 # ============================================================
